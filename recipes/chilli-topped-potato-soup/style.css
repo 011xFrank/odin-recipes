@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,300;6..12,400;6..12,500&display=swap");
+
+body {
+  background-color: rgb(235, 227, 213);
+  font-family: "Nunito Sans", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-decoration: underline double;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  color: beige;
+  background: (243, 238, 234);
+}
