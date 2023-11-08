@@ -30,3 +30,15 @@ button {
   color: beige;
   background: (243, 238, 234);
 }
+
+.back-to-main-page {
+  width: 100px;
+  font-size:50px ;
+  padding: 0px;
+  margin: 0px;
+}
+
+#back-button {
+  border: none;  
+  background-color: rgb(235, 227, 213);
+}
