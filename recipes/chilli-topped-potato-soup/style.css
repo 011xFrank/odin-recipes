@@ -6,6 +6,11 @@ body {
   text-align: center;
 }
 
+a:visited {
+  text-decoration: none;
+  color: rgb(119, 107, 93);
+}
+
 h1 {
   text-decoration: underline double;
 }
@@ -41,4 +46,9 @@ button {
 #back-button {
   border: none;  
   background-color: rgb(235, 227, 213);
+}
+
+img {
+  border-radius: 20px;
+  border: 2px solid burlywood;
 }
